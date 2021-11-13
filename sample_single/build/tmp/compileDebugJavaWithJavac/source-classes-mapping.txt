@@ -1,0 +1,13 @@
+org/fbreader/sample/single/TextBookControllerImpl.java
+ org.fbreader.sample.single.TextBookControllerImpl
+org/fbreader/sample/single/SelectionPanelListener.java
+ org.fbreader.sample.single.SelectionPanelListener
+org/fbreader/sample/single/BuildConfig.java
+ org.fbreader.sample.single.BuildConfig
+org/fbreader/sample/single/TextWidgetExt.java
+ org.fbreader.sample.single.TextWidgetExt
+org/fbreader/sample/single/MainActivity.java
+ org.fbreader.sample.single.MainActivity
+ org.fbreader.sample.single.MainActivity$1
+org/fbreader/sample/single/GestureListenerExt.java
+ org.fbreader.sample.single.GestureListenerExt

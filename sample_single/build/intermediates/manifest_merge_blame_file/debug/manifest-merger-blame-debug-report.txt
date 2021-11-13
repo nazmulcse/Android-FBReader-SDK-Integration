@@ -1,0 +1,69 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="org.fbreader.sample.single"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="16"
+8-->/home/nazmul/AndroidStudioProjects/FBReader2/sample_single/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="29" />
+9-->/home/nazmul/AndroidStudioProjects/FBReader2/sample_single/src/main/AndroidManifest.xml
+10
+11    <application
+11-->/home/nazmul/AndroidStudioProjects/FBReader2/sample_single/src/main/AndroidManifest.xml:6:2-20:16
+12        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+12-->[androidx.core:core:1.3.0] /home/nazmul/.gradle/caches/transforms-2/files-2.1/036fe01c778ec12d24eda64dcc515380/core-1.3.0/AndroidManifest.xml:24:18-86
+13        android:debuggable="true"
+14        android:label="Single book demo"
+14-->/home/nazmul/AndroidStudioProjects/FBReader2/sample_single/src/main/AndroidManifest.xml:7:3-35
+15        android:resizeableActivity="true"
+15-->/home/nazmul/AndroidStudioProjects/FBReader2/sample_single/src/main/AndroidManifest.xml:8:3-36
+16        android:testOnly="true" >
+17        <activity
+17-->/home/nazmul/AndroidStudioProjects/FBReader2/sample_single/src/main/AndroidManifest.xml:10:3-19:14
+18            android:name="org.fbreader.sample.single.MainActivity"
+18-->/home/nazmul/AndroidStudioProjects/FBReader2/sample_single/src/main/AndroidManifest.xml:11:4-32
+19            android:configChanges="orientation|keyboardHidden|screenSize"
+19-->/home/nazmul/AndroidStudioProjects/FBReader2/sample_single/src/main/AndroidManifest.xml:13:4-65
+20            android:theme="@style/Theme.AppCompat.Light" >
+20-->/home/nazmul/AndroidStudioProjects/FBReader2/sample_single/src/main/AndroidManifest.xml:12:4-48
+21            <intent-filter>
+21-->/home/nazmul/AndroidStudioProjects/FBReader2/sample_single/src/main/AndroidManifest.xml:15:4-18:20
+22                <action android:name="android.intent.action.MAIN" />
+22-->/home/nazmul/AndroidStudioProjects/FBReader2/sample_single/src/main/AndroidManifest.xml:16:5-56
+22-->/home/nazmul/AndroidStudioProjects/FBReader2/sample_single/src/main/AndroidManifest.xml:16:13-54
+23
+24                <category android:name="android.intent.category.LAUNCHER" />
+24-->/home/nazmul/AndroidStudioProjects/FBReader2/sample_single/src/main/AndroidManifest.xml:17:5-64
+24-->/home/nazmul/AndroidStudioProjects/FBReader2/sample_single/src/main/AndroidManifest.xml:17:15-62
+25            </intent-filter>
+26        </activity>
+27
+28        <provider
+28-->[org.fbreader:config_provider:1.1.4] /home/nazmul/.gradle/caches/transforms-2/files-2.1/33f1ab34e95ee76c470a1a57d559b1b4/config_provider-1.1.4/AndroidManifest.xml:12:9-17:44
+29            android:name="org.fbreader.config.ConfigProvider"
+29-->[org.fbreader:config_provider:1.1.4] /home/nazmul/.gradle/caches/transforms-2/files-2.1/33f1ab34e95ee76c470a1a57d559b1b4/config_provider-1.1.4/AndroidManifest.xml:13:13-62
+30            android:authorities="org.fbreader.sample.single.config"
+30-->[org.fbreader:config_provider:1.1.4] /home/nazmul/.gradle/caches/transforms-2/files-2.1/33f1ab34e95ee76c470a1a57d559b1b4/config_provider-1.1.4/AndroidManifest.xml:14:13-58
+31            android:enabled="true"
+31-->[org.fbreader:config_provider:1.1.4] /home/nazmul/.gradle/caches/transforms-2/files-2.1/33f1ab34e95ee76c470a1a57d559b1b4/config_provider-1.1.4/AndroidManifest.xml:15:13-35
+32            android:exported="true"
+32-->[org.fbreader:config_provider:1.1.4] /home/nazmul/.gradle/caches/transforms-2/files-2.1/33f1ab34e95ee76c470a1a57d559b1b4/config_provider-1.1.4/AndroidManifest.xml:16:13-36
+33            android:multiprocess="false" />
+33-->[org.fbreader:config_provider:1.1.4] /home/nazmul/.gradle/caches/transforms-2/files-2.1/33f1ab34e95ee76c470a1a57d559b1b4/config_provider-1.1.4/AndroidManifest.xml:17:13-41
+34        <provider
+34-->[org.fbreader:text_provider:1.1.4] /home/nazmul/.gradle/caches/transforms-2/files-2.1/3c859f7c991a54eb28887930568a9fd8/text_provider-1.1.4/AndroidManifest.xml:12:9-17:44
+35            android:name="org.fbreader.text.TextProvider"
+35-->[org.fbreader:text_provider:1.1.4] /home/nazmul/.gradle/caches/transforms-2/files-2.1/3c859f7c991a54eb28887930568a9fd8/text_provider-1.1.4/AndroidManifest.xml:13:13-58
+36            android:authorities="org.fbreader.sample.single.text"
+36-->[org.fbreader:text_provider:1.1.4] /home/nazmul/.gradle/caches/transforms-2/files-2.1/3c859f7c991a54eb28887930568a9fd8/text_provider-1.1.4/AndroidManifest.xml:14:13-56
+37            android:enabled="true"
+37-->[org.fbreader:text_provider:1.1.4] /home/nazmul/.gradle/caches/transforms-2/files-2.1/3c859f7c991a54eb28887930568a9fd8/text_provider-1.1.4/AndroidManifest.xml:15:13-35
+38            android:exported="true"
+38-->[org.fbreader:text_provider:1.1.4] /home/nazmul/.gradle/caches/transforms-2/files-2.1/3c859f7c991a54eb28887930568a9fd8/text_provider-1.1.4/AndroidManifest.xml:16:13-36
+39            android:multiprocess="false" />
+39-->[org.fbreader:text_provider:1.1.4] /home/nazmul/.gradle/caches/transforms-2/files-2.1/3c859f7c991a54eb28887930568a9fd8/text_provider-1.1.4/AndroidManifest.xml:17:13-41
+40    </application>
+41
+42</manifest>

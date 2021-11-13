@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="navigation_bar_reset_position">Скинути позицію</string>
+    <string name="selection_panel_description_bookmark">Закласти</string>
+    <string name="selection_panel_description_close">Закрити</string>
+    <string name="selection_panel_description_copy_to_clipboard">Скопіювати до буфера</string>
+    <string name="selection_panel_description_open_in_dictionary">Подивитись у словнику</string>
+    <string name="selection_panel_description_share">Поділитись текстом</string>
+    <string name="selection_panel_description_translate">Перекласти</string>
+    <string name="text_search_close_description">Закрити</string>
+    <string name="text_search_find_next_description">Наступну співпадіння</string>
+    <string name="text_search_find_previous_description">Попереднє співпадіння</string>
+    <string name="text_search_not_found_message">У цій книзі нема такого тексту</string>
+</resources>

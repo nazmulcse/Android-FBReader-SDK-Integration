@@ -1,0 +1,4 @@
+#Sat Nov 13 22:45:48 BDT 2021
+base.0=/home/nazmul/AndroidStudioProjects/FBReader2/sample_single/build/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

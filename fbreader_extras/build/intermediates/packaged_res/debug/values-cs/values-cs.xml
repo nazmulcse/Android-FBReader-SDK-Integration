@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="navigation_bar_reset_position">Obnovit pozici</string>
+    <string name="selection_panel_description_bookmark">Přidat do záložek</string>
+    <string name="selection_panel_description_close">Zavřít</string>
+    <string name="selection_panel_description_copy_to_clipboard">Kopírovat do schránky</string>
+    <string name="selection_panel_description_open_in_dictionary">Otevřít ve slovníku</string>
+    <string name="selection_panel_description_share">Sdílet text</string>
+    <string name="selection_panel_description_translate">Přeložit</string>
+    <string name="text_search_close_description">Zavřít</string>
+    <string name="text_search_find_next_description">Další výskyt</string>
+    <string name="text_search_find_previous_description">Předchozí výskyt</string>
+    <string name="text_search_not_found_message">V knize není bohužel žádný vhodný text</string>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="navigation_bar_reset_position">Pozíció nullázása</string>
+    <string name="selection_panel_description_copy_to_clipboard">Vágólapra másol</string>
+    <string name="selection_panel_description_open_in_dictionary">Megnyitás szótárban</string>
+    <string name="text_search_not_found_message">A keresett szöveg nem található a könyvben</string>
+</resources>

@@ -1,0 +1,20 @@
+org/fbreader/text/extras/BuildConfig.java
+ org.fbreader.text.extras.BuildConfig
+org/fbreader/text/extras/navigation/NavigationUtil.java
+ org.fbreader.text.extras.navigation.NavigationUtil
+ org.fbreader.text.extras.navigation.NavigationUtil$1
+org/fbreader/text/extras/opener/ExternalHyperlinkOpener.java
+ org.fbreader.text.extras.opener.ExternalHyperlinkOpener
+org/fbreader/text/extras/opener/InternalHyperlinkOpener.java
+ org.fbreader.text.extras.opener.InternalHyperlinkOpener
+org/fbreader/text/extras/gesture/GestureListenerImpl.java
+ org.fbreader.text.extras.gesture.GestureListenerImpl
+ org.fbreader.text.extras.gesture.GestureListenerImpl$1
+ org.fbreader.text.extras.gesture.GestureListenerImpl$SlideMode
+org/fbreader/text/extras/controller/AbstractTextBookController.java
+ org.fbreader.text.extras.controller.AbstractTextBookController
+org/fbreader/text/extras/search/TextSearchUtil.java
+ org.fbreader.text.extras.search.TextSearchUtil
+ org.fbreader.text.extras.search.TextSearchUtil$SearchTask
+org/fbreader/text/extras/search/TextSearchPanelListener.java
+ org.fbreader.text.extras.search.TextSearchPanelListener

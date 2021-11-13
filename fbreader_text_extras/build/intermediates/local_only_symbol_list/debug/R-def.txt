@@ -1,0 +1,7 @@
+R_DEF: Internal format may change without notice
+local
+id navigation_panel
+id navigation_reset_button
+id navigation_slider
+id navigation_text
+layout fbreader_navigation_panel

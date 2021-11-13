@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="navigation_bar_reset_position">Ետ</string>
+    <string name="selection_panel_description_bookmark">Էջանշել</string>
+    <string name="selection_panel_description_close">Փակել</string>
+    <string name="selection_panel_description_copy_to_clipboard">Պատճենել սեղմատախտակում</string>
+    <string name="selection_panel_description_open_in_dictionary">Նայել բառարանում</string>
+    <string name="selection_panel_description_share">Տարածել</string>
+    <string name="selection_panel_description_translate">Թարգմանել</string>
+    <string name="text_search_close_description">Փակել</string>
+    <string name="text_search_find_next_description">Գտնել հաջորդը</string>
+    <string name="text_search_find_previous_description">Գտնել նախորդը</string>
+    <string name="text_search_not_found_message">Գրքում նման հատված չկա</string>
+</resources>

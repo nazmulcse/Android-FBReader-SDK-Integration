@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="navigation_bar_reset_position">Restablecer posición</string>
+    <string name="selection_panel_description_copy_to_clipboard">Copiar al portapapeles</string>
+    <string name="selection_panel_description_open_in_dictionary">Abrir en diccionario</string>
+    <string name="text_search_not_found_message">No hay texto que coincida en el libro</string>
+</resources>

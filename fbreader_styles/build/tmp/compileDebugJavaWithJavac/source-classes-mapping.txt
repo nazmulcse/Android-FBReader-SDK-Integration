@@ -1,0 +1,2 @@
+org/fbreader/styles/BuildConfig.java
+ org.fbreader.styles.BuildConfig

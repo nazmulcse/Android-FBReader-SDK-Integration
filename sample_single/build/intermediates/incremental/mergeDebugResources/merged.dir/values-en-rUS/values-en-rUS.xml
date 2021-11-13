@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fbreader_css_color_ignore">Ignore</string>
+    <string name="fbreader_css_color_invert">Invert</string>
+    <string name="fbreader_css_color_use_as_is">Use as is</string>
+    <string name="fbreader_error_archive_not_supported">Cannot open file \'%s\' from archive. Please, unzip and try again.</string>
+    <string name="fbreader_error_empty_file">File \'%s\' is empty</string>
+    <string name="fbreader_error_native_code">Error %1$s in native code while reading file \'%2$s\'</string>
+    <string name="fbreader_error_no_file_for_book">No file found for book \'%s\'</string>
+    <string name="fbreader_error_no_plugin_for_file">No plugin found for file \'%s\'</string>
+    <string name="fbreader_screen_orientation_landscape">Landscape</string>
+    <string name="fbreader_screen_orientation_portrait">Portrait</string>
+    <string name="fbreader_screen_orientation_reverse_landscape">Reverse landscape</string>
+    <string name="fbreader_screen_orientation_reverse_portrait">Reverse portrait</string>
+    <string name="fbreader_screen_orientation_sensor">Auto-rotate</string>
+    <string name="fbreader_screen_orientation_system">System</string>
+    <string formatted="false" name="fbreader_social_tweet_text">I\'ve read “%title%” in #FBReader</string>
+    <string name="fbreader_style_name">Style %s</string>
+    <string name="fbreader_text_encrypted_section">Encrypted section</string>
+    <string name="fbreader_text_twitter_link">Tweet what you have read!</string>
+    <string name="navigation_bar_reset_position">Reset position</string>
+    <string name="selection_panel_description_bookmark">Bookmark</string>
+    <string name="selection_panel_description_close">Close</string>
+    <string name="selection_panel_description_copy_to_clipboard">Copy to clipboard</string>
+    <string name="selection_panel_description_open_in_dictionary">Look up in the dictionary</string>
+    <string name="selection_panel_description_search_on_web">Search on web</string>
+    <string name="selection_panel_description_share">Share text</string>
+    <string name="selection_panel_description_translate">Translate</string>
+    <string name="text_search_close_description">Close</string>
+    <string name="text_search_find_next_description">Next occurrence</string>
+    <string name="text_search_find_previous_description">Previous occurrence</string>
+    <string name="text_search_not_found_message">Matching text not found</string>
+</resources>

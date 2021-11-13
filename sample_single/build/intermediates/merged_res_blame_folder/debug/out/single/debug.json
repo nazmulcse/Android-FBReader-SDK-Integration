@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/nazmul/AndroidStudioProjects/FBReader2/sample_single/build/intermediates/res/merged/debug/layout_cover.xml.flat",
+        "source": "/home/nazmul/AndroidStudioProjects/FBReader2/sample_single/src/main/res/layout/cover.xml"
+    },
+    {
+        "merged": "/home/nazmul/AndroidStudioProjects/FBReader2/sample_single/build/intermediates/res/merged/debug/menu_app.xml.flat",
+        "source": "/home/nazmul/AndroidStudioProjects/FBReader2/sample_single/src/main/res/menu/app.xml"
+    },
+    {
+        "merged": "/home/nazmul/AndroidStudioProjects/FBReader2/sample_single/build/intermediates/res/merged/debug/layout_main.xml.flat",
+        "source": "/home/nazmul/AndroidStudioProjects/FBReader2/sample_single/src/main/res/layout/main.xml"
+    }
+]

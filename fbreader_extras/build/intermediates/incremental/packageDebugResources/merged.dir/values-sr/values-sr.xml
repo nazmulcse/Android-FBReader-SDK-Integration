@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="navigation_bar_reset_position">Поништи положај</string>
+    <string name="selection_panel_description_copy_to_clipboard">Умножи</string>
+    <string name="selection_panel_description_open_in_dictionary">Отвори у речнику</string>
+    <string name="text_search_not_found_message">Нема траженог текста у књизи.</string>
+</resources>

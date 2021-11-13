@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fbreader_error_native_code">读取“%1$s”时本地代码中的错误%2$s</string>
+    <string name="fbreader_error_no_plugin_for_file">没有“%1$s”的插件</string>
+    <string name="fbreader_screen_orientation_landscape">横向</string>
+    <string name="fbreader_screen_orientation_portrait">纵向</string>
+    <string name="fbreader_screen_orientation_reverse_landscape">反向横向</string>
+    <string name="fbreader_screen_orientation_reverse_portrait">反向纵向</string>
+    <string name="fbreader_screen_orientation_sensor">自动旋转</string>
+    <string name="fbreader_screen_orientation_system">系统</string>
+    <string formatted="false" name="fbreader_social_tweet_text">我在FBReader中读过“%标题%”</string>
+    <string name="fbreader_style_name">样式%s</string>
+    <string name="fbreader_text_encrypted_section">加密部分</string>
+    <string name="fbreader_text_goodreads_link">在Goodreads上分享您的阅读体验吧!</string>
+    <string name="fbreader_text_twitter_link">把您读到的东西发到Twitter上!</string>
+    <string name="navigation_bar_reset_position">复位位置</string>
+    <string name="selection_panel_description_bookmark">书签</string>
+    <string name="selection_panel_description_close">关闭</string>
+    <string name="selection_panel_description_copy_to_clipboard">复制到剪贴板</string>
+    <string name="selection_panel_description_open_in_dictionary">打开字典</string>
+    <string name="selection_panel_description_share">分享文本</string>
+    <string name="selection_panel_description_translate">翻译</string>
+    <string name="text_search_close_description">关闭</string>
+    <string name="text_search_find_next_description">下一发现</string>
+    <string name="text_search_find_previous_description">上一发现</string>
+    <string name="text_search_not_found_message">未找到匹配文本</string>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="navigation_bar_reset_position">Về vị trí cũ</string>
+    <string name="selection_panel_description_copy_to_clipboard">Chép vào Clipboard</string>
+    <string name="selection_panel_description_open_in_dictionary">Mở trong Từ điển</string>
+    <string name="text_search_not_found_message">Xin lỗi, không có từ thích hợp</string>
+</resources>

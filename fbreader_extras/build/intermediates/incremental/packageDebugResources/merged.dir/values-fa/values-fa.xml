@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="navigation_bar_reset_position">وضعيت تنظيم مجدد</string>
+    <string name="selection_panel_description_copy_to_clipboard">کپی به کلیپ بورد</string>
+    <string name="selection_panel_description_open_in_dictionary">بازکردن در پوشه</string>
+    <string name="text_search_not_found_message">متاسفانه متن مناسبي در كتاب موجود نيست</string>
+</resources>

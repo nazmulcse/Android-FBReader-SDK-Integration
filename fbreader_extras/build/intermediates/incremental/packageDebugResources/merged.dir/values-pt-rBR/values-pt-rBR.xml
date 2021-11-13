@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="navigation_bar_reset_position">Redefinir posição</string>
+    <string name="selection_panel_description_copy_to_clipboard">Copiar para a área de trabalho</string>
+    <string name="selection_panel_description_open_in_dictionary">Abrir no dicionário</string>
+    <string name="selection_panel_description_share">Partilhar texto</string>
+    <string name="selection_panel_description_translate">Traduzir</string>
+    <string name="text_search_close_description">Fechar</string>
+    <string name="text_search_find_next_description">Ocorrência seguinte</string>
+    <string name="text_search_find_previous_description">Ocorrência anterior</string>
+    <string name="text_search_not_found_message">Não há texto adequado no livro, desculpe</string>
+</resources>

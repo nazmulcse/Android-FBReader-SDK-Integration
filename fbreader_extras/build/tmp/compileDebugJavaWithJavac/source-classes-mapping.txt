@@ -1,0 +1,19 @@
+org/fbreader/extras/info/InfoView.java
+ org.fbreader.extras.info.InfoView
+ org.fbreader.extras.info.InfoView$1
+org/fbreader/extras/BuildConfig.java
+ org.fbreader.extras.BuildConfig
+org/fbreader/extras/selection/SelectionCursorUtil.java
+ org.fbreader.extras.selection.SelectionCursorUtil
+org/fbreader/extras/util/ViewAnimationUtil.java
+ org.fbreader.extras.util.ViewAnimationUtil
+ org.fbreader.extras.util.ViewAnimationUtil$1
+ org.fbreader.extras.util.ViewAnimationUtil$2
+org/fbreader/extras/gesture/GestureListenerBase.java
+ org.fbreader.extras.gesture.GestureListenerBase
+org/fbreader/extras/info/InfoUtil.java
+ org.fbreader.extras.info.InfoUtil
+org/fbreader/extras/selection/SelectionPanelUtil.java
+ org.fbreader.extras.selection.SelectionPanelUtil
+org/fbreader/extras/util/WidgetProgressTask.java
+ org.fbreader.extras.util.WidgetProgressTask

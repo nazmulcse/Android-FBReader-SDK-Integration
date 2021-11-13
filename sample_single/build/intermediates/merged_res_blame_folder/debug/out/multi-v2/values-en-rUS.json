@@ -1,0 +1,121 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/nazmul/AndroidStudioProjects/FBReader2/sample_single/build/intermediates/incremental/mergeDebugResources/merged.dir/values-en-rUS/values-en-rUS.xml",
+            "map": [
+                {
+                    "source": "/home/nazmul/.gradle/caches/transforms-2/files-2.1/3c859f7c991a54eb28887930568a9fd8/text_provider-1.1.4/res/values-en-rUS/values-en-rUS.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,164,242",
+                        "endColumns": "108,77,80",
+                        "endOffsets": "159,237,318"
+                    },
+                    "to": {
+                        "startLines": "7,18,19",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "451,1385,1463",
+                        "endColumns": "108,77,80",
+                        "endOffsets": "555,1458,1539"
+                    }
+                },
+                {
+                    "source": "/home/nazmul/.gradle/caches/transforms-2/files-2.1/852c90f1c4d6e6b34b783dc79ee2e539/book-1.1.4/res/values-en-rUS/values-en-rUS.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "56",
+                        "endOffsets": "107"
+                    },
+                    "to": {
+                        "startLines": "17",
+                        "startColumns": "4",
+                        "startOffsets": "1328",
+                        "endColumns": "56",
+                        "endOffsets": "1380"
+                    }
+                },
+                {
+                    "source": "/home/nazmul/.gradle/caches/transforms-2/files-2.1/4724dd8c7a054fd4205021e32f25428d/format_interface-1.1.4/res/values-en-rUS/values-en-rUS.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,187,262,352",
+                        "endColumns": "131,74,89,93",
+                        "endOffsets": "182,257,347,441"
+                    },
+                    "to": {
+                        "startLines": "5,6,8,9",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "244,376,560,650",
+                        "endColumns": "131,74,89,93",
+                        "endOffsets": "371,446,645,739"
+                    }
+                },
+                {
+                    "source": "/home/nazmul/.gradle/caches/transforms-2/files-2.1/37c96086fbf00076e88194a556e7e5bf/options-1.1.4/res/values-en-rUS/values-en-rUS.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "106",
+                        "endOffsets": "157"
+                    },
+                    "to": {
+                        "startLines": "16",
+                        "startColumns": "4",
+                        "startOffsets": "1221",
+                        "endColumns": "106",
+                        "endOffsets": "1323"
+                    }
+                },
+                {
+                    "source": "/home/nazmul/.gradle/caches/transforms-2/files-2.1/aed69dee05238cf71f5e9129ad336954/view-1.1.4/res/values-en-rUS/values-en-rUS.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,116,177",
+                        "endColumns": "60,60,66",
+                        "endOffsets": "111,172,239"
+                    }
+                },
+                {
+                    "source": "/home/nazmul/AndroidStudioProjects/FBReader2/fbreader_extras/build/intermediates/packaged_res/debug/values-en-rUS/values-en-rUS.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,128,202,270,362,463,547,620,696,760,838,924",
+                        "endColumns": "72,73,67,91,100,83,72,75,63,77,85,81",
+                        "endOffsets": "123,197,265,357,458,542,615,691,755,833,919,1001"
+                    },
+                    "to": {
+                        "startLines": "20,21,22,23,24,25,26,27,28,29,30,31",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "1544,1617,1691,1759,1851,1952,2036,2109,2185,2249,2327,2413",
+                        "endColumns": "72,73,67,91,100,83,72,75,63,77,85,81",
+                        "endOffsets": "1612,1686,1754,1846,1947,2031,2104,2180,2244,2322,2408,2490"
+                    }
+                },
+                {
+                    "source": "/home/nazmul/.gradle/caches/transforms-2/files-2.1/27170f74eaf530cee95423599e923b4a/util-1.1.4/res/values-en-rUS/values-en-rUS.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "55,131,205,297,387,462",
+                        "endColumns": "75,73,91,89,74,69",
+                        "endOffsets": "126,200,292,382,457,527"
+                    },
+                    "to": {
+                        "startLines": "10,11,12,13,14,15",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "744,820,894,986,1076,1151",
+                        "endColumns": "75,73,91,89,74,69",
+                        "endOffsets": "815,889,981,1071,1146,1216"
+                    }
+                }
+            ]
+        }
+    ]
+}

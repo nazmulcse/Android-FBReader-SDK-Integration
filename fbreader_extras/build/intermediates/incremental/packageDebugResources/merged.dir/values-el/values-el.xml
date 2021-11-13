@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="navigation_bar_reset_position">Αναίρεση θέσης</string>
+    <string name="selection_panel_description_copy_to_clipboard">Αντιγραφλη στο clipboard</string>
+    <string name="selection_panel_description_open_in_dictionary">Αναξήτηση στο λεξικό</string>
+    <string name="text_search_not_found_message">Δεν βρέθηκε κατάλληλο κείμενο στο βιβλίο.</string>
+</resources>

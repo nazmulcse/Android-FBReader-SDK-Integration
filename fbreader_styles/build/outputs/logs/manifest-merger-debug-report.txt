@@ -1,0 +1,25 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/nazmul/AndroidStudioProjects/FBReader2/fbreader_styles/src/main/AndroidManifest.xml:2:1-42
+INJECTED from /home/nazmul/AndroidStudioProjects/FBReader2/fbreader_styles/src/main/AndroidManifest.xml:2:1-42
+INJECTED from /home/nazmul/AndroidStudioProjects/FBReader2/fbreader_styles/src/main/AndroidManifest.xml:2:1-42
+	package
+		ADDED from /home/nazmul/AndroidStudioProjects/FBReader2/fbreader_styles/src/main/AndroidManifest.xml:2:11-40
+		INJECTED from /home/nazmul/AndroidStudioProjects/FBReader2/fbreader_styles/src/main/AndroidManifest.xml
+		INJECTED from /home/nazmul/AndroidStudioProjects/FBReader2/fbreader_styles/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/nazmul/AndroidStudioProjects/FBReader2/fbreader_styles/src/main/AndroidManifest.xml:2:1-42
+uses-sdk
+INJECTED from /home/nazmul/AndroidStudioProjects/FBReader2/fbreader_styles/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/nazmul/AndroidStudioProjects/FBReader2/fbreader_styles/src/main/AndroidManifest.xml
+INJECTED from /home/nazmul/AndroidStudioProjects/FBReader2/fbreader_styles/src/main/AndroidManifest.xml
+INJECTED from /home/nazmul/AndroidStudioProjects/FBReader2/fbreader_styles/src/main/AndroidManifest.xml
+INJECTED from /home/nazmul/AndroidStudioProjects/FBReader2/fbreader_styles/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/nazmul/AndroidStudioProjects/FBReader2/fbreader_styles/src/main/AndroidManifest.xml
+		ADDED from /home/nazmul/AndroidStudioProjects/FBReader2/fbreader_styles/src/main/AndroidManifest.xml
+		INJECTED from /home/nazmul/AndroidStudioProjects/FBReader2/fbreader_styles/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/nazmul/AndroidStudioProjects/FBReader2/fbreader_styles/src/main/AndroidManifest.xml
+		ADDED from /home/nazmul/AndroidStudioProjects/FBReader2/fbreader_styles/src/main/AndroidManifest.xml
+		INJECTED from /home/nazmul/AndroidStudioProjects/FBReader2/fbreader_styles/src/main/AndroidManifest.xml

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="navigation_bar_reset_position">元の位置に戻す</string>
+    <string name="selection_panel_description_bookmark">しおりを作成</string>
+    <string name="selection_panel_description_close">閉じる</string>
+    <string name="selection_panel_description_copy_to_clipboard">クリップボードにコピー</string>
+    <string name="selection_panel_description_open_in_dictionary">辞書で開く</string>
+    <string name="selection_panel_description_share">本文を共有</string>
+    <string name="selection_panel_description_translate">翻訳</string>
+    <string name="text_search_close_description">閉じる</string>
+    <string name="text_search_find_next_description">次の一致</string>
+    <string name="text_search_find_previous_description">前の一致</string>
+    <string name="text_search_not_found_message">申し訳ありませんが、本の中に合致する文が見当たりません</string>
+</resources>

@@ -1,0 +1,77 @@
+apply plugin: 'com.android.application'
+
+dependencies {
+	implementation "com.google.android.material:material:1.3.0"
+	implementation "com.googlecode.json-simple:json-simple:1.1"
+	implementation "org.fbreader:book:$fbreader_sdk_version"
+	implementation "org.fbreader:config_client:$fbreader_sdk_version"
+	implementation "org.fbreader:config_provider:$fbreader_sdk_version"
+	implementation "org.fbreader:filesystem:$fbreader_sdk_version"
+	implementation "org.fbreader:fontentry:$fbreader_sdk_version"
+	implementation "org.fbreader:format_interface:$fbreader_sdk_version"
+	implementation "org.fbreader:image:$fbreader_sdk_version"
+	implementation "org.fbreader:intent:$fbreader_sdk_version"
+	implementation "org.fbreader:language:$fbreader_sdk_version"
+	implementation "org.fbreader:loader:$fbreader_sdk_version"
+	implementation "org.fbreader:options:$fbreader_sdk_version"
+	implementation "org.fbreader:text_client:$fbreader_sdk_version"
+	implementation "org.fbreader:text_provider:$fbreader_sdk_version"
+	implementation "org.fbreader:text_util:$fbreader_sdk_version"
+	implementation "org.fbreader:text_view:$fbreader_sdk_version"
+	implementation "org.fbreader:toc:$fbreader_sdk_version"
+	implementation "org.fbreader:util:$fbreader_sdk_version"
+	implementation "org.fbreader:view:$fbreader_sdk_version"
+	implementation "org.fbreader:vimgadgets:$fbreader_sdk_version"
+	implementation "org.fbreader:zip-amse:$fbreader_sdk_version"
+	implementation project(":fbreader_extras")
+	implementation project(":fbreader_styles")
+	implementation project(":fbreader_text_extras")
+}
+
+android {
+	compileSdkVersion project.compile_sdk_version
+	buildToolsVersion project.build_tools_version
+
+	lintOptions {
+		abortOnError false
+	}
+
+	compileOptions {
+		sourceCompatibility JavaVersion.VERSION_1_8
+		targetCompatibility JavaVersion.VERSION_1_8
+	}
+
+	defaultConfig {
+		applicationId 'org.fbreader.sample.extensions'
+		minSdkVersion project.min_sdk_version
+		targetSdkVersion project.target_sdk_version
+		versionCode 1
+		versionName '1.0'
+	}
+
+	buildTypes {
+		release {
+			minifyEnabled true
+			shrinkResources true
+			proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+// signingConfig signingConfigs.release
+
+			buildConfigField "boolean","USE_STETHO","false"
+		}
+
+		debug {
+			debuggable true
+// signingConfig signingConfigs.debug
+			versionNameSuffix " (DEBUG)"
+
+			buildConfigField "boolean","USE_STETHO","true"
+		}
+	}
+
+	sourceSets {
+		main.java.srcDirs = ['src/main/java']
+		main.res.srcDirs = ['src/main/res']
+		main.assets.srcDirs = ['src/main/assets']
+	}
+
+}

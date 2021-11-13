@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="navigation_bar_reset_position">複位位置</string>
+    <string name="selection_panel_description_bookmark">書簽</string>
+    <string name="selection_panel_description_close">關閉</string>
+    <string name="selection_panel_description_copy_to_clipboard">複製到剪貼板</string>
+    <string name="selection_panel_description_open_in_dictionary">打開字典</string>
+    <string name="selection_panel_description_share">分享文本</string>
+    <string name="selection_panel_description_translate">翻譯</string>
+    <string name="text_search_close_description">關閉</string>
+    <string name="text_search_find_next_description">下一發現</string>
+    <string name="text_search_find_previous_description">上一發現</string>
+    <string name="text_search_not_found_message">未找到匹配文本</string>
+</resources>

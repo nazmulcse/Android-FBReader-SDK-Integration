@@ -1,0 +1,35 @@
+apply plugin: 'com.android.library'
+
+dependencies {
+	implementation "androidx.appcompat:appcompat:1.2.0"
+	implementation "org.fbreader:config_client:$fbreader_sdk_version"
+	implementation "org.fbreader:util:$fbreader_sdk_version"
+	implementation "org.fbreader:view:$fbreader_sdk_version"
+}
+
+android {
+	compileSdkVersion project.compile_sdk_version
+	buildToolsVersion project.build_tools_version
+
+	lintOptions {
+		abortOnError false
+	}
+
+	compileOptions {
+		sourceCompatibility JavaVersion.VERSION_1_8
+		targetCompatibility JavaVersion.VERSION_1_8
+	}
+
+	sourceSets {
+		main.java.srcDirs = ['src/main/java']
+		main.res.srcDirs = ['src/main/res']
+		main.manifest.srcFile 'src/main/AndroidManifest.xml'
+	}
+
+	defaultConfig {
+		minSdkVersion project.min_sdk_version
+		targetSdkVersion project.target_sdk_version
+		versionCode 1
+		versionName project.fbreader_sdk_version
+	}
+}

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="navigation_bar_reset_position">Azzera posizione</string>
+    <string name="selection_panel_description_close">Cancella</string>
+    <string name="selection_panel_description_copy_to_clipboard">Copia negli Appunti</string>
+    <string name="selection_panel_description_open_in_dictionary">Apri nel Dizionario</string>
+    <string name="text_search_not_found_message">Spiacente, non c\'è un testo adatto all\'interno del libro</string>
+</resources>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="org.fbreader.sample.single"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="16"
+        android:targetSdkVersion="29" />
+
+    <application
+        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+        android:debuggable="true"
+        android:label="Single book demo"
+        android:resizeableActivity="true"
+        android:testOnly="true" >
+        <activity
+            android:name="org.fbreader.sample.single.MainActivity"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:theme="@style/Theme.AppCompat.Light" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <provider
+            android:name="org.fbreader.config.ConfigProvider"
+            android:authorities="org.fbreader.sample.single.config"
+            android:enabled="true"
+            android:exported="true"
+            android:multiprocess="false" />
+        <provider
+            android:name="org.fbreader.text.TextProvider"
+            android:authorities="org.fbreader.sample.single.text"
+            android:enabled="true"
+            android:exported="true"
+            android:multiprocess="false" />
+    </application>
+
+</manifest>

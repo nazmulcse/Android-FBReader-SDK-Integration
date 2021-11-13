@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="navigation_bar_reset_position">위치 초기화</string>
+    <string name="selection_panel_description_copy_to_clipboard">클립보드로 복사</string>
+    <string name="selection_panel_description_open_in_dictionary">사전으로 열기</string>
+    <string name="text_search_not_found_message">이 책에는 적합한 텍스트가 없습니다</string>
+</resources>

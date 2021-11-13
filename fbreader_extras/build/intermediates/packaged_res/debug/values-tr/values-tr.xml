@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="navigation_bar_reset_position">Pozisyonu sıfırla</string>
+    <string name="selection_panel_description_copy_to_clipboard">Panoya kopyala</string>
+    <string name="selection_panel_description_open_in_dictionary">Sözlükte bul</string>
+    <string name="text_search_not_found_message">Kitapta buna uyan metin yok, üzgünüm</string>
+</resources>

@@ -1,0 +1,41 @@
+<menu
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	xmlns:app="http://schemas.android.com/apk/res-auto"
+>
+	<item
+		android:id="@+id/menu_zoom_in"
+		app:showAsAction="never"
+		android:title="Zoom In"
+	/>
+	<item
+		android:id="@+id/menu_zoom_out"
+		app:showAsAction="never"
+		android:title="Zoom Out"
+	/>
+	<item
+		android:id="@+id/menu_background"
+		android:title="Color profile"
+	>
+		<menu>
+			<item
+				android:id="@+id/menu_background_paper"
+				android:title="Black on paper"
+				android:checkable="true"
+			/>
+			<item
+				android:id="@+id/menu_background_sepia"
+				android:title="Brown on sepia"
+				android:checkable="true"
+			/>
+			<item
+				android:id="@+id/menu_background_solid_white"
+				android:title="Blue on pink"
+				android:checkable="true"
+			/>
+		</menu>
+	</item>
+	<item
+		android:id="@+id/menu_cover"
+		android:title="Show cover"
+	/>
+</menu>

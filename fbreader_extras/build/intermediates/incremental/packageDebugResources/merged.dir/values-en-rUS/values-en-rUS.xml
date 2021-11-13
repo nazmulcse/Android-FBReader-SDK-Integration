@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="navigation_bar_reset_position">Reset position</string>
+    <string name="selection_panel_description_bookmark">Bookmark</string>
+    <string name="selection_panel_description_close">Close</string>
+    <string name="selection_panel_description_copy_to_clipboard">Copy to clipboard</string>
+    <string name="selection_panel_description_open_in_dictionary">Look up in the dictionary</string>
+    <string name="selection_panel_description_search_on_web">Search on web</string>
+    <string name="selection_panel_description_share">Share text</string>
+    <string name="selection_panel_description_translate">Translate</string>
+    <string name="text_search_close_description">Close</string>
+    <string name="text_search_find_next_description">Next occurrence</string>
+    <string name="text_search_find_previous_description">Previous occurrence</string>
+    <string name="text_search_not_found_message">Matching text not found</string>
+</resources>
